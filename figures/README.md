@@ -1,2 +1,2 @@
 # Medium Figures
-Figures related to my medium articles.
+Figures related to my Medium articles.
