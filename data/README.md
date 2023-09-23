@@ -1,2 +1,2 @@
-# medium
-data related to my medium articles.
+# Medium
+data related to my Medium articles.
