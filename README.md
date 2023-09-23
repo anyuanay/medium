@@ -1,2 +1,2 @@
-# medium
-data, code, and references related to my medium articles.
+# Medium
+data, code, references, and resources related to my Medium articles.
